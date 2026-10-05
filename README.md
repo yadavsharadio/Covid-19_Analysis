@@ -1,5 +1,5 @@
 
-# 🦠 COVID-19 Analysis Dashboard
+# 🦠 COVID-19 Analysis & Visualisation
 
 ## 📌 Project Overview
 
